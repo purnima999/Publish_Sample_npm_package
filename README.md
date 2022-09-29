@@ -1,4 +1,4 @@
-# nvlibrary
+# React App as a npm package
 
 > Made with create-react-library
 
