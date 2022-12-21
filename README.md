@@ -25,6 +25,10 @@ class Example extends Component {
 }
 ```
 
+#used npms
+```
+
+
 ## License
 
 MIT © [purnima999](https://github.com/purnima999)
